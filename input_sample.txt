@@ -1,0 +1,17 @@
+a: Ben
+b: Ten
+c: 20300.50
+d: 20
+e: CRITICAL
+
+a: Peter
+b: Petter
+c: 120.50
+d: 20
+e: NORMAL
+
+a: Mick
+b: Obama
+c: 49.54
+d: 64
+e: NORMAL
